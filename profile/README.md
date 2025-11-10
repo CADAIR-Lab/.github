@@ -1,4 +1,4 @@
-# CADAIR: Cheikh Anta Diop Artificial Intelligence Research lab
+# CADAIR: Cheikh Anta Diop Artificial Intelligence Research Lab
 Building the foundations of low-resource AI for better fairness and inclusivity in Africa.
 
 # Description
