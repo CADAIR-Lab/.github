@@ -1,13 +1,10 @@
 # CADAIR: Cheikh Anta Diop Artificial Intelligence Research Lab
-Building the foundations of low-resource AI for better fairness and inclusivity in Africa.
+CADAIR AI Lab is a research and innovation hub dedicated to rethinking how AI is built, trained, and deployed for low-resource and multilingual settings, with a particular focus on African languages and contexts. We combine deep technical research with practical ecosystem building, **bridging the gap between frontier AI science and local applicability**.
 
-# Description
-Initial work is focused on NLP with Senegalese languages.
-
-> Working groups will be established according to the topics developed.
+Our vision is to **build the foundations of low-resource Artificial Intelligence that advances fairness, inclusivity, and linguistic equity across Africa**. We envision a future where every community; regardless of language, connectivity, or data availability; can access powerful AI systems that understand their culture, context, and voice.
 
 # Research Directions
-Below is a domain list to explore, it will be expanded as we go along:
+Our research targets the core foundations of low-resource AI, spanning the entire data-to-model pipeline. We design efficient, adaptive, and culturally aligned AI systems by focusing on the following pillars:
 * Iterative data collection approach suitable for the African context
 * Data-Centric AI
 * Tokenization and vocabulary representations in Transformers
