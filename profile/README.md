@@ -22,6 +22,5 @@ Below is a domain list to explore, it will be expanded as we go along:
 Inpiration: [MakereNLP](https://air.ug/)
 
 # On going projects
-[ ] State of the NLP research in Senegalese Languages
-[ ] Whatsapp-based Dataset collection
-    - Cf [Ashesi](https://ashesi-org.github.io/dataset/nlp/ai/ghana/africa/speech/2022/05/16/release-of-financial-inclusion-dataset-ghanaian-languages.html)
+- [ ] State of the NLP research in Senegalese Languages  
+- [ ] Whatsapp-based Dataset collection (Cf [Ashesi](https://ashesi-org.github.io/dataset/nlp/ai/ghana/africa/speech/2022/05/16/release-of-financial-inclusion-dataset-ghanaian-languages.html))
