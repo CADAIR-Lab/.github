@@ -8,10 +8,10 @@ Initial work is focused on NLP with Senegalese languages.
 
 # Research Directions
 Below is a domain list to explore, it will be expanded as we go along:
-* Iterative data collection approach suitable for the african context
+* Iterative data collection approach suitable for the African context
 * Data-Centric AI
 * Tokenization and vocabulary representations in Transformers
-* [Zero]Few-shot [Multilingual] Transfer
+* [Zero] Few-shot [Multilingual] Transfer
 * Efficient training mechanisms
 * Distillation and Pruning
 * Model Quantization
