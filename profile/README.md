@@ -1,7 +1,7 @@
 # CADAIR: Cheikh Anta Diop Artificial Intelligence Research Lab
-At CADAIR AI Lab, we believe that the next leap in Artificial Intelligence will emerge from **connecting frontier science with local meaning**. Our work reimagines how state-of-the-art AI methods can be re-engineered to solve Africa’s most tangible challenges. Our team conducts applied AI research that bridges the gap between advanced machine learning theory and real-world implementation in Africa to ensure that the progress of AI becomes a shared language of empowerment.
+At CADAIR AI Lab, we believe that the next leap in Artificial Intelligence (AI) will emerge from **connecting frontier science with local meaning**. Our work reimagines how state-of-the-art AI methods can be re-engineered to solve Africa’s most tangible challenges. Our team conducts applied AI research that bridges the gap between advanced machine learning theory and real-world implementation in Africa to ensure that the progress of AI becomes a shared language of empowerment.
 
-Our vision is to **build the foundations of low-resource Artificial Intelligence that advances fairness, inclusivity, and linguistic equity across Africa**. We envision a future where every community; regardless of language, connectivity, or data availability; can access powerful AI systems that understand their culture, context, and voice.
+Our vision is to **build the foundations of low-resource AI that advances fairness, inclusivity, and linguistic equity across Africa**. We envision a future where every community; regardless of language, connectivity, or data availability; can access powerful AI systems that understand their culture, context, and voice.
 
 # Research Directions
 Our research targets the core foundations of low-resource AI, spanning the entire data-to-model pipeline. We design efficient, adaptive, and culturally aligned AI systems by focusing on the following pillars:
