@@ -16,8 +16,13 @@ Our research targets the core foundations of low-resource AI, spanning the entir
 * Adapters & Parameter-efficient fine-tuning (PEFT)
 
 # On going projects
-- [ ] State of the NLP research in Senegalese Languages  
+- [x] State of the NLP research in Senegalese Languages  
 - [ ] Whatsapp-based Dataset collection (Cf [Ashesi](https://ashesi-org.github.io/dataset/nlp/ai/ghana/africa/speech/2022/05/16/release-of-financial-inclusion-dataset-ghanaian-languages.html))
+- [ ] Wolof Speech data collection
+- [ ] Wolof Text data collection
+- [ ] Sota Wolof ASR and TTS training
+- [ ] Sota LLMs training
+- [ ] Extension to TSLMs
 
 # Contact 
 - cadairlab[at]outlook[dot]com
